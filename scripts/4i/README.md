@@ -1,1 +1,1 @@
-scripts for 4i analysis
+scripts and environment file for 4i spatial analysis
