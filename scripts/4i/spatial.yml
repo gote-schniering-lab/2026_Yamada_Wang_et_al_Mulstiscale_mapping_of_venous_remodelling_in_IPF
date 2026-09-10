@@ -1,0 +1,5 @@
+name: space_squidpy
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/huijuanwang/miniconda3/envs/space_squidpy
