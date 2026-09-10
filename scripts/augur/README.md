@@ -1,1 +1,1 @@
-scripts for augur analysis for single nuclear RNAseq
+scripts and environment file for augur analysis of single nuclear RNAseq
